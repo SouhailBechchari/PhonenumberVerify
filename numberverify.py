@@ -7,4 +7,4 @@ def verifie_format_telephone_regex(numero):
 # Exemple d'utilisation
 numero_test = "12-3456789"
 resultat = verifie_format_telephone_regex(numero_test)
-print(resultat)  # Cela devrait afficher True
+print(resultat)  
